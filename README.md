@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## 使用方法
 
 1. 克隆仓库：
-git clone https://github.com/你的用户名/douban-book-spider.git
+git clone https://github.com/yourusername/douban-book-spider.git 
 
 cd douban-book-spider
 
